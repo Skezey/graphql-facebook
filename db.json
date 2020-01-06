@@ -1,10 +1,5 @@
 {
-  "users": [{
-      "id": "23",
-      "firstName": "Bill",
-      "age": 20,
-      "companyId": "1"
-    },
+  "users": [
     {
       "id": "21",
       "firstName": "Samantha",
@@ -16,15 +11,27 @@
       "firstName": "Jon",
       "age": 40,
       "companyId": "2"
+    },
+    {
+      "firstName": "Stephen",
+      "age": 24,
+      "id": "PPCvBxq",
+      "args": {
+        "id": "PPCvBxq",
+        "firstName": "Stephen"
+      }
     }
   ],
-  "companies": [{
-    "id": "1",
-    "name": "Apple",
-    "description": "iPhone"
-  }, {
-    "id": "2",
-    "name": "Google",
-    "description": "search"
-  }]
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iPhone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    }
+  ]
 }
